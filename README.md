@@ -22,6 +22,7 @@
 <p align="center">
 <a href="https://twitter.com/0xov3r_h4ul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xov3r_h4ul" height="30" width="40" /></a>
 <a href="https://instagram.com/pavan._.tg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavan._.tg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/d-pavankalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-pavankalyan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/0rezer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/0rezer0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sin_greed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sin_greed/" height="30" width="40" /></a>
 </p>
